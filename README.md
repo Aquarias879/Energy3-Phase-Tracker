@@ -1,3 +1,3 @@
 An ESP32-based energy monitoring system designed for 3-phase power measurement, utilizing the PM3P50 power meter sensor for accurate readings of voltage, current, frequency, active power, and power factor. The system communicates via Modbus to collect phase-specific data (A, B, C) and transmits it as JSON payloads to a remote server every 15 minutes. This setup provides real-time tracking and analysis, ensuring precision and reliability, making it ideal for industrial and commercial energy monitoring applications. The PM3P50 sensor guarantees accurate and dependable performance.
 
-(Reference: PM3P50 Power Meter)
+(Reference: [PM3P50 Power Meter](https://www.somsakelect.com/product/pm3p50-power-meter/))
